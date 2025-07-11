@@ -1,0 +1,21 @@
+{
+  "manifest_version": "1",
+  "name": "TONnectA",
+  "description": "Decentralized social platform built on TON",
+  "url": "https://your-app-domain.com",
+  "icons": [
+    {
+      "src": "https://your-app-domain.com/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://your-app-domain.com/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "bridge_url": "https://bridge.tonapi.io/bridge",
+  "terms_of_use_url": "https://your-app-domain.com/terms",
+  "privacy_policy_url": "https://your-app-domain.com/privacy"
+}
